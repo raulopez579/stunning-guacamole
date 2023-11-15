@@ -1,1 +1,18 @@
-{}
+{
+    "Case-Study-2": {
+        "projectName": "Case-Study-2",
+        "description": "capstone project ",
+        "type": "community",
+        "author": "raulopez579",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/raulopez579/stunning-guacamole",
+        "githubUri": "https://github.com/raulopez579/stunning-guacamole",
+        "license": "apache-2.0",
+        "lastUpdated": "1700013773237",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
